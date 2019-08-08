@@ -1,6 +1,6 @@
 # Reset Password Instagram
 ![image](https://github.com/Xractz/RIG/blob/master/rig.jpg)
-RIG adalah tool untuk Reset Password Instagram menggunakan bahasa pemrograman python
+RPG adalah tool untuk Reset Password Instagram menggunakan bahasa pemrograman python
 Tool ini memudahkan kita dalam reset password, tanpa harus susah" buka chrome/instagram
 
 ## Cara Install

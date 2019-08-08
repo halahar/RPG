@@ -7,9 +7,9 @@ Tool ini memudahkan kita dalam reset password, tanpa harus susah" buka chrome/in
 ```
 $pkg install python
 $pip install requests
-$git clone https://github.com/Xractz/RIG
-$cd RIG
-$python rig.py
+$git clone https://github.com/Xractz/RPG
+$cd RPG
+$python rpg.py
 ```
 
 
